@@ -17,7 +17,7 @@ Any data entered or generated within the App remains on your device. MandarinUp 
 We may update this Privacy Policy as needed. Any changes will be reflected in this document with a new effective date.
 
 ## Contact Us
-If you have questions or concerns about this Privacy Policy, please contact us at help@mandarinup.com
+If you have questions or concerns about this Privacy Policy, please contact us at [help@mandarinup.com](mailto:help@mandarinup.com)
 
 ---
 
