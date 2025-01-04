@@ -4,7 +4,7 @@ MandarinUp is an offline app designed to help you learn Mandarin effectively and
 
 ## Key Features
 - **Offline Learning:** No internet connection is required.
-- **User Privacy:** All data stays on your device.
+- **User Privacy:** All data stays on your device. [Read our Privacy Policy](https://mandarinup.com/privacy-policy)
 - **Effective Tools:** Access engaging lessons and exercises tailored to Mandarin learners.
 
 ## Need Help?
